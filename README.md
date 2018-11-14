@@ -1,0 +1,2 @@
+# tinko
+have a test
